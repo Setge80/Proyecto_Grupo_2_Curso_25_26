@@ -8,7 +8,7 @@ El objetivo principal es combatir la procrastinación ofreciendo una recompensa 
 
 ## Características Principales
 - **Temporizador Pomodoro Gamificado:** Los ciclos de trabajo se traducen en un viaje por un mundo fantástico donde el avatar enfrenta desafíos y recolecta botín.
-- **Ciclos de Descanso en la "Posada":** Al finalizar cada periodo de enfoque, el sistema fomenta el descanso necesario trasladando al personaje a una zona de recuperación.
+- **Ciclos de Descanso en la Tienda:** Durante las pausas reglamentarias del Pomodoro, el flujo de combate se detiene y el usuario puede acceder a una tienda exclusiva. Aquí podrá gestionar su inventario, vender equipo obsoleto y comprar pociones o accesorios con las monedas obtenidas.
 - **Sistema de Whitelist:** Control de aplicaciones permitidas para evitar distracciones; si el usuario se sale del flujo, la aventura se detiene.
 - **Evolución Permanente:** La experiencia (XP) y las recompensas obtenidas se consolidan al final de cada sesión, permitiendo mejorar al avatar a largo plazo.
 
